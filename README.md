@@ -1,1 +1,3 @@
 # Color-flipper
+
+Javascript practice
