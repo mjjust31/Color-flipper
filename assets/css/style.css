@@ -1,3 +1,32 @@
-.color {
-  background-color: rgb(203, 23, 23); 
+h1 {
+  background-color: black;
+  color: white;
+  margin: auto;
+  text-align: center;
+  width: 40%;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+button {
+  margin: auto;
+}
+
+.nav-center {
+  display: flex;
+  justify-content: space-around;
+  background-color: gray;
+  padding: 35px;
+  margin: 0px 0px 5px;
+  color: white;
+  font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.nav-links {
+  display: flex;
+}
+
+.nav-links li {
+  list-style: none;
+  margin: auto 10px;
 }
